@@ -239,3 +239,26 @@ input:nth-of-type(2):checked ~ container div::before{
 input:nth-of-type(1):checked ~ container:nth-child(6) div::before{
     background-color: purple;
 }
+input{
+    display:none;
+}
+input:hover{
+    cursor: pointer;
+}
+label {
+    display: inline-block;
+    width: 200px;
+    padding: 10px;
+    border: solid 2px #ccc;
+    transition: all 0.3s;
+    margin-top:60vh;
+    margin-right: 20px;
+    color:white;
+    font-family: Montserrat;
+  }
+  input[type="radio"]:checked + label {
+    border: solid 2px green;
+  }
+  label:first-of-type:hover{
+      border:dotted yellow
+  }
