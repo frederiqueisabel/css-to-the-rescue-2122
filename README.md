@@ -44,3 +44,10 @@ Colleges, lessen en gesprekken vinden plaats in het TTH (4e verdieping :-).
 Het **eerste uitgangspunt** is dat je *geen* ID's en classes gebruikt. Niet omdat ze niet nuttig zijn, maar om te oefenen met de [vele CSS selectoren](https://css-tricks.com/almanac/) die je tot je beschikking hebt. ID's mag je alleen gebruiken om de :target selector te triggeren en uiteraard om labels te koppelen aan inputs. En als het echt echt echt niet anders kan, heb je permissie om een enkele class toe te voegen.
 
 Een **tweede uitgangspunt** is dat je *geen* JavaScript gebruikt. Als iets niet kan met CSS, dan zal je iets anders moeten verzinnen om te maken. We onderzoeken de mogelijkheden van CSS in dit vak, en niet die van JS.
+
+
+## ReadMe
+Eerst zat ik al de hele week ongeveer te twijfelen, omdat ik dacht dat ik de vuurwerkshow nooit zou kunnen. Ik dacht dat ik uberhaupt geen vuurwerkje zou kunnen maken, dat dat veel te hoog gegrepen zou zijn. 
+Ik ging met een andere opdracht aan de slag, maar ik bleef met de vuurwerkshow in mijn hoofd zitten. Ik wilde het toch erg graag kunnen. 
+
+In week 2 ging ik ervoor zitten en heb ik toch gekeken naar hoe ik een vuurwerkje zou kunnen maken. Ik had eerst al moeite met bedenken hoe. Wat voor elementen en hoe ik de animatie kon triggeren. Na veel research kwam ik erop uit dat ik moest werken met ::before en radio buttons. Toen ik hulp ging vragen en echt goed research deed, kwam ik er eigenlijk best goed uit. Voor wat ik had verwacht dan. Ik liep wel tegen veel dingen aan. Zoals hoe te werken met die radio buttons als trigger. Of er kwamen errors uit het niets. Ik ben er niet helemaal uitgekomen, zo staan momenteel de vuurwerkjes ineens een heel stuk te ver naar rechts, wat het echt een uur geleden niet stond en ik heb niks veranderd, dus wat hier mis is gegaan, weet ik nog niet precies. Wel ben ik al supertrots op hoe ver ik ben gekomen en dat ik uberhaupt gewoon al vuurwerk heb gemaakt met alleen CSS en HTML. Ik kon dat me eerst echt niet voorstellen.
